@@ -1,7 +1,7 @@
 # Gaddiel Irakoze - Online Portfolio  
 
 ## 📌 Overview  
-This is a personal portfolio website for **Gaddiel Irakoze**, a software engineering student and aspiring data scientist at **African Leadership University**. The website showcases his background, skills, projects, and contact information.
+This is my personal portfolio website, a software engineering student and aspiring data scientist at **African Leadership University**. The website showcases my background, skills, projects, and contact information.
 
 ## 🖥️ Features  
 - **Responsive Design:** Adapts to different screen sizes.  
